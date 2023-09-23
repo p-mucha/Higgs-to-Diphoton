@@ -24,7 +24,7 @@ If these conditions are not met, the event is rejected.
 
 
 5) Next, two photon candidates with the highest transverse momenta, within the fiducial region $\eta$  < 2.55 excluding the barrel-end-cap  transition region, 1.44 < $\eta$ < 1.57, are chosen. 
-6) Leading and subleading photons are required to have transverse momenta greater than $m_{\gamma \gamma}/3$ and $m_{\gamma \gamma}/4 $ respectively. 
+6) Leading and subleading photons are required to have transverse momenta greater than $m_{\gamma \gamma}/3$ and $m_{\gamma \gamma}/4$ respectively. 
 7) The difference between the average pseudorapidity of two jets and the pseudorapidity of a diphoton system, calculated from its total energy and momentum in z direction, must be less than 2.5. 
 
 The invariant masses of dijets and diphotons were calculated using the equation:
