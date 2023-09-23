@@ -47,6 +47,6 @@ From the 2012 run dataset with $\sqrt{s}$ = 8 TeV [2], a peak at mass of around 
 
 
 # References
-[1] S. Chatrchyan et al., "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC," Physics Letters B, vol. 716, no. 1, pp. 30-61, Sep. 2012, doi: https://doi.org/10.1016/j.physletb.2012.08.021.
+[1] S. Chatrchyan et al., "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC," Physics Letters B, vol. 716, no. 1, pp. 30-61, Sep. 2012, doi: https://doi.org/10.1016/j.physletb.2012.08.021. <br>
 [2] CMS collaboration (2022). Photon primary dataset in AOD format from Run of 2012 (/Photon/Run2012A-22Jan2013-v1/AOD). CERN Open Data Portal. DOI:10.7483/OPENDATA.CMS.2UWH.YB9E
 
