@@ -1,5 +1,6 @@
 # Higgs-to-Diphoton
-Analysis of CMS open data regarding Higgs to Diphoton decays.
+Analysis of CMS open data regarding Higgs to Diphoton decays. <br>
+Note: work presented here was done by me during PHAS0052 module.
 
 
 Useful, relevant tutorials: \
